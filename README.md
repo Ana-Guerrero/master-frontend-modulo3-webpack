@@ -1,2 +1,2 @@
 # master-frontend-modulo3-webpack
-Laboratorio - Módulo 1 - Webpack
+Laboratorio - Módulo 3 - Webpack
